@@ -1,4 +1,4 @@
-# So1
+# So2
 ## Description
 - Git 레포지터리 https://bitbucket.org/jgnam/webapp.git fork
 - Git 레포지터리 https://bitbucket.org/limp666/webapp.git 의 소스코드를 Jenkins를 통해 Build
